@@ -111,6 +111,24 @@ h5 {
   font-weight: 400;
 }
 
+.hero {
+  line-height: 44px;
+  padding: 22px 80px 66px 80px;
+}
+
+.hero h2 {
+  font-size: 36px;
+}
+
+.hero p {
+  font-size: 24px;
+}
+
+.teaser a:hover h3 {
+  color: #a9b2b9;
+}
+
+
 
 /*
   ========================================
@@ -123,6 +141,9 @@ a:hover {
 }
 a {
   color: #648880;
+}
+p a {
+  border-bottom: 1px solid #dfe2e5;
 }
 
 
